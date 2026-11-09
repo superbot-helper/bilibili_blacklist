@@ -7,7 +7,7 @@
     "body-parser": "^1.20.3",
     "cookie-parser": "^1.4.4",
     "ejs": "^3.0.1",
-    "express": "^4.17.1",
+    "express": "^4.22.3",
     "node-cache": "^5.1.0",
     "request": "^2.88.2"
   },
